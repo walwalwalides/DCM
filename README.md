@@ -57,8 +57,11 @@ Principal Software Benefits:
 
 
 ## Installation
+    - Create a new Github Reposotory like  in this exemple:https://github.com/walwalwalides/MyCode
+    
+    - Install [SynEdit] https://github.com/SynEdit/SynEdit
 
-    - Download the installation files
+    - Download the installation file : DCM_Install__Setup
 	
     - Press the Install button.
 
