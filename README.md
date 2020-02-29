@@ -60,6 +60,8 @@ Principal Software Benefits:
     - Create a new Github repository like  in this [exemple](https://github.com/walwalwalides/MyCode)
     
     [Install SynEdit](https://github.com/SynEdit/SynEdit)
+    
+    [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
     - Download the installation file : DCM_Install__Setup
 	
