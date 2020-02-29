@@ -57,7 +57,7 @@ Principal Software Benefits:
 
 
 ## Installation
-    - Create a new Github repository like  in this [exemple] : https://github.com/walwalwalides/MyCode
+    - Create a new Github repository like in this [exemple] : https://github.com/walwalwalides/MyCode
     
     - Install [ SynEdit] : https://github.com/SynEdit/SynEdit
     
