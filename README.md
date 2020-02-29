@@ -48,7 +48,7 @@ Principal Software Benefits:
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[DCM_Install__Setup](https://github.com/walwalwalides/GAlertService/releases/download/GAlertService/GAlertService__Setup.exe)| Download GAlertService.
+|[DCM_Install__Setup](https://github.com/walwalwalides/DCM/releases/download/V1.0.0/DCM_Install__Setup.exe)| Download DCM_Install.
 | README.md | The Readme for this Project|
 
 
