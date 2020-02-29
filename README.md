@@ -57,12 +57,10 @@ Principal Software Benefits:
 
 
 ## Installation
-    - Create a new Github repository like  in this [exemple](https://github.com/walwalwalides/MyCode)
+    - Create a new Github repository like  in this [exemple] : https://github.com/walwalwalides/MyCode
     
-    |[Install SynEdit](https://github.com/SynEdit/SynEdit)| Download SynEdit.
+    - Install [ SynEdit] : https://github.com/SynEdit/SynEdit
     
-    [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
     - Download the installation file : DCM_Install__Setup
 	
     - Close the IDE and install the DCM Package.
