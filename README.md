@@ -1,21 +1,21 @@
 # DCM ( Delphi Code Manager )
-DCM is a Software Solution for Creating a Windows Service Monitor Using Email.
+DCM extends the Delphi/C++Builder IDE by adding some new productivity features.
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 
-![](GAlertService.png)
+![](DCM.png)
 **Authors:**  *WalWalWalides*
 ------
 
-`GAlertService` help programmer to get quickly information by windows service Error.
+`DCM` help programmer to get quickly information and help by searching for Source Code.
 
 
 Principal Software Benefits:
 
-     - Get instance information by windows service Error
+     - Get instance information by searching for Source Code
      
-     - Use your own Gmail account to receive information
+     - Create a bank sorting code
 
 
 ### Main View
@@ -25,17 +25,20 @@ Principal Software Benefits:
 
 ------
 
-## To Create a Monotoring Alert:
 
-The two most important steps to do: 
+## Features:
 
-- First,you need to define a "Event ID" ,the Event ID should be between 7000 and 7044 ,it's below to (Service Control Manager Eventlog).
+    - Management code source
+	
+    - Show project for active file in Project Manager
+	
+    - Editor tab double click action
+	
+    - Loading Module
 
-For more Information you can find Here : 
-https://www.geoffchappell.com/studies/windows/win32/services/scm/events/eventlog.htm
+	
+------	
 
-- Second, by using Gmail account ,you have to deactivate more security (Option) in Gmail account to send and recieve emails without any problem.
-that means "Allow less secure app" an (On) State.
 
 
 ------
@@ -45,10 +48,20 @@ that means "Allow less secure app" an (On) State.
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[GAlertService.exe](https://github.com/walwalwalides/GAlertService/releases/download/GAlertService/GAlertService__Setup.exe)| Download GAlertService.
+|[DCM_Install__Setup](https://github.com/walwalwalides/GAlertService/releases/download/GAlertService/GAlertService__Setup.exe)| Download GAlertService.
 | README.md | The Readme for this Project|
 
+
+
 ------
+
+
+## Installation
+
+    - Download the installation files
+	
+    - Press the Install button.
+
 
 # If You Want To Donate!
 
