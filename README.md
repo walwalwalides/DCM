@@ -8,7 +8,7 @@ DCM extends the Delphi/C++Builder IDE by adding some new productivity features.
 **Authors:**  *WalWalWalides*
 ------
 
-`DCM` help programmer to get quickly information and help by searching for Source Code.
+`DCM` help programmer to get quickly information by searching for Source Code.
 
 
 Principal Software Benefits:
@@ -34,7 +34,7 @@ Principal Software Benefits:
 	
     - Editor tab double click action
 	
-    - Loading Module
+    - Loading Module and adding new one
 
 	
 ------	
